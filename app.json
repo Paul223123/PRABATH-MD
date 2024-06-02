@@ -12,12 +12,12 @@
     },  
 
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "PRABATH-MD~vaAnlZia#Nu0bNjZHvDf9C3uYUq7-2C3BNsPniteOVTBncNy1TW8",
       "required": true
     },  
 
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "Paul223123",
       "required": true
     },
     
